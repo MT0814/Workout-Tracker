@@ -33,8 +33,9 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
 - [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
 
 ## License 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Published Website
 
-Please click [here](https://workout-tracker-mogo.herokuapp.com/?id=61d4fda4a81c530016f9679b) for the Chef Recipe website
+Please click [here](https://workout-tracker-mogo.herokuapp.com/?id=61d4fda4a81c530016f9679b) for the Workout tracker website
